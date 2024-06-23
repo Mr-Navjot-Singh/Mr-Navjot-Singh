@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Navjot-Singh
 - 👀 I’m interested in software and hardware engineering
-- 🌱 I’m currently learning AI
+- 🌱 I’m curretly learning AI and Robotics
 - 📫 How to reach me ... navjotsingh1919@gmail.com
 
 <!---
